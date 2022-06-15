@@ -20,7 +20,7 @@ title                    : "Jaeha Shin's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jaeha Shin"
-description              : "Changwon National Univ."
+description              : "Changwon National University"
 url                      : "https://sjh4287.github.io"
 baseurl                  : ""
 repository               : "sjh4287/sjh4287.github.io" # GitHub username/repo-name e.g. 
@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Jaeha Shin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person"
-  location         : "Changwon"
-  email            : "4287aaa@naver.com"
+  bio              : "I am CWNU student!"
+  location         : "Changwon, Korea"
+  email            : # "4287aaa@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,10 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/sjh4287"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/sjh4287"
 
 # Site Footer
 footer:
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/sjh4287"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -149,7 +149,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/sjh4287/"
 
 
 # Reading Files
