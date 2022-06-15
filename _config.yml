@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Jaeha Shin"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/img.jpg" # path of avatar image, e.g. 
   bio              : "I am CWNU student!"
   location         : "Changwon, Korea"
   email            : # "4287aaa@naver.com"
