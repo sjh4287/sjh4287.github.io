@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "ko-KR"
 title                    : "Jaeha Shin's Blog"
 title_separator          : "-"
-subtitle                 : "2000.08.09" # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jaeha Shin"
 description              : "Changwon National University"
 url                      : "https://sjh4287.github.io"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Jaeha Shin"
   avatar           : "/assets/images/img.jpg" # path of avatar image, e.g. 
-  bio              : "I am CWNU student!"
+  bio              : "2000.08.09"
   location         : "Changwon, Korea"
   email            : # "4287aaa@naver.com"
   links:
