@@ -25,6 +25,10 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
   color: inherit;
 }
 
+.page_title{
+  color: $link-color;
+  }
+
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
 }
