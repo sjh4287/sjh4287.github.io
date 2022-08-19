@@ -10,7 +10,7 @@ author_profile: true
 - **Masan**, Gyeongsangnam-do
 - **Undergraduate Student** @[**CWNU**](http://www.changwon.ac.kr/){:target="_blank"}
 - @[**Department of Computer Engineering**](https://www.changwon.ac.kr/ce/main.do){:target="_blank"}
-- As of 15th June 2022, Internships at @[**NOSLab**](https://noslab.github.io/){:target="_blank"} 
+- 2022.06.15 ~ 2022.08.31, Internships at @[**NOSLab**](https://noslab.github.io/){:target="_blank"} 
 
 ## Email.
 - **4287aaa@naver.com**
